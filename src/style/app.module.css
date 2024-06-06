@@ -1,0 +1,33 @@
+
+
+* {
+    padding: 0;
+    margin: 0;
+    
+}
+
+#feed_comentarios{
+    margin: 2em;
+}
+
+#user_coment{
+    display: flex;
+    flex-direction: column;
+}
+
+#user_coment input{
+   width: 15rem;
+   margin: 15px 0;
+}
+
+
+#comentario{
+    height: 15em;
+}
+
+
+.comentSection div{
+    align-items: flex-start;
+    width: 15rem;
+    border-top: 1px solid black;
+}
